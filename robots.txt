@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://spacy.io
+Host: https://noewangjy.github.io/test-website/
 
 # Sitemaps
-Sitemap: https://spacy.io/sitemap.xml
+Sitemap: https://noewangjy.github.io/test-website/sitemap.xml
